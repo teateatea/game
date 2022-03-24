@@ -1,0 +1,28 @@
+<rss version="2.0">
+<channel>
+  <title>My very cool website</title>
+  <link>http://yourwebsite.com</link>
+  <description>A very cool website</description>
+  <generator>Lettersmith</generator>
+  <lastBuildDate>
+    Thu, 24 Mar 2022 13:19:24 
+  </lastBuildDate>
+  
+  <item>
+    <title>Example Post</title>
+    <link>http://yourwebsite.com/2022\03\24\example-post/</link>
+    <guid>http://yourwebsite.com/2022\03\24\example-post/</guid>
+    <description>Content
+</description>
+    <content:encoded><![CDATA[
+      <p>Content</p>
+
+    ]]></content:encoded>
+    <pubDate>Sun, 24 Nov 2019 00:00:00 </pubDate>
+    
+      <author>A very cool person</author>
+    
+  </item>
+  
+</channel>
+</rss>

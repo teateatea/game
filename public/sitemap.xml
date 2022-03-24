@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yourwebsite.com/2022\03\24\example-post/</loc>
+    <lastmod>2022-03-24T13:09:54.662491</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yourwebsite.com/about/</loc>
+    <lastmod>2022-03-24T13:09:54.660496</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yourwebsite.com/</loc>
+    <lastmod>2022-03-24T13:09:54.661494</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yourwebsite.com/page-a/</loc>
+    <lastmod>2022-03-24T13:09:54.661494</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yourwebsite.com/page-b/</loc>
+    <lastmod>2022-03-24T13:09:54.661494</lastmod>
+  </url>
+  
+</urlset>
